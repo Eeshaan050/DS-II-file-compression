@@ -4,7 +4,7 @@ Group - 11
 
 Problem Statement - 21
 
-# Zip File Compression Analyzer
+# File Compression Analyzer
 
 A Java-based implementation of the **Huffman Coding Algorithm** for lossless text compression and decompression. This project was developed as part of the 2nd Year Data Structures course to demonstrate the practical application of Heaps, Binary Trees, and Hash Maps.
 
